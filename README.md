@@ -1,6 +1,7 @@
 # NoSurrender_Case
 
-We are trying to stay on the platform. It has a basic structure such as a timer and get score. You need to kick the enemies out of the field before the time expires.
+We are trying to stay on the platform. It has a basic structure such as a timer and get score. 
+You need to kick the enemies out of the field before the time expires.
 There are a lot of things that need to be improved.
 Thank you for your time:)
 --------------------------------------------------------------------------------------------------------------
